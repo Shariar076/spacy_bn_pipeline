@@ -1,0 +1,5 @@
+venv* 
+packed/
+spacy_bn
+cc.bn.300.vec.gz
+*.tar.gz
